@@ -229,7 +229,7 @@ span{
         content: "Web Developer";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Python Developer";
     }
     41%, 60%{
         content: "Web Designer";
@@ -238,7 +238,7 @@ span{
         content: "Youtuber";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Backend Engineer";
     }
 }
 
@@ -267,4 +267,5 @@ span{
         margin-top: 4rem;
     }
 }
+
 
